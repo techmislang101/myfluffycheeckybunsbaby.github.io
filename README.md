@@ -6,7 +6,7 @@
 <img src="CuteGf.png" width="250" height="200">
 <img src="Handsome.png" width="250" height="200">
 <h1>Hello mahal ko^^</h1>
-<p>I want to give you this as a gift from me, I am still learning on how to code properly, and I am looking forward to give you such amazing gifts like this hehe,<br> I just wanted to say na. I am so so much happy that I met you, and thank you for giving me the chance to court you hihihi.</p>
+<p>I want to give you this as a gift from me, I am still learning on how to code properly, and I am looking forward to give you such amazing gifts like this hehe,<br> I just wanted to say na. I am extremely happy that I met you, and thank you for giving me the chance to get to know you.</p>
 <h3> I miss you so much my fluffycheeckybuns baby:(( </h3>
 <marquee>
 <font color="red" face="Times New Roman" size="10">
@@ -74,6 +74,11 @@ MAHAL NA MAHAL NA MAHAL PO KITA SOBRA SOBRA
 <br>
 <br>
 <br>
+</nav>
+</div>
+<div class="container">
+<nav>
+<a href="aboutus.html">About Us</a>
 </nav>
 </div>
 </center>
