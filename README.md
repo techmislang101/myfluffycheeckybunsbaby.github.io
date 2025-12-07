@@ -12,9 +12,70 @@
 <font color="red" face="Times New Roman" size="10">
 MAHAL NA MAHAL NA MAHAL PO KITA SOBRA SOBRA
 </marquee>
+<div class="container">
+<h1>Welcome to our Love Story</h1>
+<p>Stalk us more about each one of use through the links below</p>
+<nav>
 <font color="black" face="Century Gothic" size="6">
-<h2><a href="https://www.instagram.com/mitochandreaxz/">Her Instagram^^</a><h2>
-<h2><a href="https://www.instagram.com/criminologist.bf_raven/">Her Bf Instagram</a></h2>
+<a href="herinstagram.html">Her Insta</a><br><br><a href="hisinstagram.html">His Insta</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</nav>
+</div>
 </center>
 </head>
 </body>
